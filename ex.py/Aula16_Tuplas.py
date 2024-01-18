@@ -2,7 +2,10 @@
 
 # 1 Tupla totalmente preenchida com uma contagem por extenso de zero a vinte.
 
-contagem = 'zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze', 'treze', 'quatorze', 'quinze', 'dezeseis', 'dezesete', 'dezoito', 'dezenove', 'vinte'
+contagem = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 
+            'sete', 'oito', 'nove', 'dez', 'onze', 'doze', 'treze', 
+            'quatorze', 'quinze', 'dezeseis', 'dezesete', 'dezoito', 
+            'dezenove', 'vinte')
 
 # 2 Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 
