@@ -1,5 +1,6 @@
 # 1. Apertar tecla windows
 
+
 import pyautogui
 import time
 pyautogui.PAUSE = 2
