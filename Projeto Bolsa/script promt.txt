@@ -1,0 +1,9 @@
+Quero que busque em python a cotação atual dos FIIs(Fundos Imobiliários) a seguir, trazendo apenas 2 casas decimais (0,00), são eles:
+APTO11
+BTLG11
+CPTS11
+GARE11
+VGIR11
+VIUR11
+XPSF11
+Depois disso, quero que jogue o ticker do fundo em uma planilha de excel existente chamada 'Carteira de Ações e FIIs.xlsx' na página chamada 'FIIs' a partir da linha 3 e coluna F. O valor da cotação quero que coloque na mesma planilha e página na linha 3 e coluna G tudo isso usando apenas openpyxl e B3Api.

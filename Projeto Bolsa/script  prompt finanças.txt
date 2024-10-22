@@ -1,0 +1,46 @@
+1. Para analisar tendências econômicas
+Na análise de tendências econômicas, o ChatGPT pode gerar relatórios que oferecem insights rápidos e precisos sobre o mercado financeiro. Esse tipo de documento é especialmente valioso para analistas financeiros que precisam se manter atualizados com as condições e mudanças do mercado.
+
+Prompt de ChatGPT
+“Como um experiente consultor financeiro, sua tarefa é analisar as tendências econômicas do [setor]. Você é solicitado para realizar uma pesquisa abrangente sobre as condições de mercado atuais, dados históricos e projeções futuras. A sua análise deve identificar os principais fatores que influenciam o setor, como mudanças regulatórias, avanços tecnológicos e alterações no comportamento do consumidor. Forneça insights detalhados e recomendações práticas para os interessados. O relatório deve ser claro, conciso e respaldado por dados, possibilitando a tomada de decisões informadas por investidores e empresas dentro do setor.”
+
+2. Para obter atualizações do mercado de ações
+Os prompts de ChatGPT para analistas financeiros também podem ajudar você a se manter atualizado sobre o mercado de ações. Isso porque, com o comando adequado, ele pode fazer uma curadoria de notícias e fornecer insights mais recentes sobre os ativos.
+
+Prompt de ChatGPT
+“Atue como um experiente consultor financeiro. Forneça uma atualização concisa, porém abrangente, sobre o desempenho atual do mercado de ações. Analise os movimentos-chave do mercado, destaque performances significativas de ações e ofereça insights sobre possíveis razões por trás dessas mudanças. Sua atualização deve ser informativa, fornecendo informações valiosas aos clientes, e também deve incluir uma breve previsão ou implicações para os próximos dias de negociação.”
+
+3. Para encontrar novas oportunidades de investimentos
+O ChatGPT pode ser útil para analistas financeiros encontrarem novas oportunidades de investimentos em setores específicos. Com base nesse relatório, é possível tomar decisões mais assertivas e indicar ativos atrativos para a carteira de diversos perfis de clientes. 
+
+Prompt de ChatGPT
+“Atue como um experiente consultor financeiro. Sua função é pesquisar e identificar oportunidades de investimentos promissoras no setor específico. Utilize sua expertise para analisar tendências de mercado, relatórios financeiros e notícias do setor, a fim de destacar as opções de investimento mais lucrativas e estáveis. Elabore um relatório detalhado que inclua uma análise dos riscos e recompensas potenciais, condições de mercado e perspectivas de crescimento futuro. Seu relatório deve fornecer conselhos fundamentados para auxiliar os clientes a tomarem decisões de investimento assertivas, adaptadas aos seus objetivos financeiros e tolerância ao risco.” 
+
+4. Para analisar portfólios 
+A análise de portfólio é uma das principais funções do profissional na área. Essa atividade requer uma compreensão profunda da dinâmica do mercado e necessidades financeiras de cada cliente. O ChatGPT pode auxiliar o analista financeiro neste processo. 
+
+Prompt de ChatGPT
+“Como um experiente consultor financeiro, sua responsabilidade é analisar o perfil de risco e retorno de uma carteira de investimentos específica. Isso implica em uma avaliação detalhada da alocação de ativos da carteira, seu desempenho histórico e os possíveis riscos e retornos futuros. É necessário utilizar sua expertise para avaliar como a composição da carteira se alinha com a tolerância ao risco e objetivos de investimento do cliente. A análise deve incluir uma revisão das tendências de mercado, indicadores econômicos e o desempenho de carteiras similares. Apresente um relatório abrangente com recomendações para ajustes visando otimizar o desempenho da carteira, equilibrando risco e retorno de maneira que atenda aos objetivos financeiros do cliente.”
+
+5. Para fornecer aconselhamento de investimento
+Além de fornecer respostas, o ChatGPT também pode ajudar os analistas financeiros na consultoria e aconselhamento de investimento. Para isso, basta inserir o seguinte comando na ferramenta:
+
+Prompt de ChatGPT
+“Atue como um experiente consultor financeiro. Redija uma mensagem personalizada oferecendo conselhos de investimento a um cliente interessado no [setor]. A mensagem deve ser informativa, tranquilizadora e adaptada aos objetivos financeiros e tolerância ao risco do cliente. Utilize sua experiência para analisar as tendências atuais do mercado no [setor], fornecendo insights e recomendações. Os seus conselhos devem ser claros, concisos e respaldados por dados, auxiliando o cliente a tomar decisões de investimento bem fundamentadas. Certifique-se de que a mensagem inclua também os riscos potenciais e esboce uma estratégia para crescimento e segurança a longo prazo.”
+6. Para criar materiais educativos 
+Criar materiais educativos é outra atividade do analista de financeiro que pode ser automatizada com ajuda do ChatGPT. Um bom prompt para analista financeiro pode criar conteúdos personalizados conforme o nível de compreensão em finanças dos clientes, além de descomplicar complexos termos financeiros.
+
+Prompt de ChatGPT
+“Você é um experiente consultor financeiro. Elabore um guia informativo e de fácil compreensão sobre os fundamentos de [nome do assunto]. O guia deve ser adaptado para iniciantes, desenvolvendo conceitos financeiros complexos de maneira simples. Concentre-se em fornecer conselhos práticos, exemplos da vida real e passos práticos que os leitores possam seguir. Certifique-se de que o guia seja abrangente, cobrindo todos os aspectos fundamentais do assunto, e inclua dicas para evitar armadilhas comuns. O objetivo é educar os leitores, aumentar sua confiança no manuseio de questões financeiras relacionadas a [assunto], e incentivá-los a tomar ações informadas.
+
+7. Para criar um plano orçamentário 
+Elaborar um orçamento para um cliente demanda tempo, mesmo para os profissionais mais experientes. Com um prompt de ChatGPT para analista financeiro, você consegue economizar tempo e criar uma proposta de orçamento personalizada em poucos minutos.
+
+Prompt de ChatGPT
+“Crie uma proposta de orçamento para um cliente com uma [renda]. A proposta deve ser personalizada para atender aos objetivos financeiros e circunstâncias específicas do cliente. Analise a renda, despesas, economias e dívidas do cliente. Forneça uma detalhada divisão das alocações de gastos recomendadas em categorias como moradia, serviços públicos, mantimentos, transporte, poupança e pagamento de dívidas. Inclua estratégias para reduzir despesas, aumentar economias e gerenciar dívidas de forma eficaz. Ofereça orientação sobre planejamento financeiro, opções de investimento e fundos de emergência. Certifique-se de que a proposta seja prática, sustentável e alinhada com os objetivos financeiros de longo prazo do cliente.”
+
+8. Para planejar uma aposentadoria
+Os prompts de ChatGPT para analistas financeiros também podem ser grandes aliados no planejamento de aposentadorias. Com as instruções corretas, a inteligência artificial pode desenvolver um plano abrangente e personalizado para seus clientes. Para isso, basta inserir o seguinte prompt:
+
+Prompt de ChatGPT
+“Como um experiente consultor financeiro, sua tarefa é elaborar um plano de aposentadoria abrangente para um indivíduo com renda de [valor da renda], com [idade], com o objetivo de se aposentar aos [idade de aposentadoria]. Este plano deve incluir estratégias detalhadas para poupar, investir e gerenciar as finanças, visando garantir uma aposentadoria confortável. Aborde fatores-chave como tolerância ao risco, opções de investimento e possíveis implicações fiscais. Forneça um cronograma para alcançar marcos e sugira maneiras de ajustar o plano conforme as circunstâncias mudam. Certifique-se de que o plano seja personalizado, realista e alinhado aos objetivos financeiros de longo prazo do cliente.”

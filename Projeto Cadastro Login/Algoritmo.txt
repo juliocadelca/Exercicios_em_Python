@@ -1,0 +1,20 @@
+# Qual é o processo que deve ser automatizado(de forma resumida)
+Preenchimento de campos, com base em uma planilha.
+
+# Quais (se for o caso) arquivos e ou sites são necessarios
+- Planilha
+- Link do Site(Login do site)
+
+Agoritimo:
+1 - Navegar até o site https://contabilidade-devaprender.netlify.app
+2 - Digitar o email
+3 - Digitar a senha 
+4 - Clicar em entrar
+5 - Clicar em cada campo e preemcher com dados da planilha.
+6 - Clicar em cadastrar
+7 - Repetir passos 5 e 6
+
+XPATH
+tag[@atributo='valor']
+input[@type='email']
+//*[@id="email"]
